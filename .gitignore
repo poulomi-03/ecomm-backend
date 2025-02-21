@@ -8,6 +8,7 @@ pnpm-debug.log
 .env.local
 .DS_Store
 
+//code by Poulomi and Aman
 # Build and output directories
 dist/
 build/
